@@ -5,6 +5,7 @@ cache.html
 index.html
 bundle.js
 payload.bin
+aio_patches.bin
 
 NETWORK:
 *
